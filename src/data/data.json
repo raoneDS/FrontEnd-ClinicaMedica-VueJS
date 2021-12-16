@@ -1,0 +1,38 @@
+[
+    {
+      "idPaciente": 1,
+      "cpf": "12114461742",
+      "nome": "raone",
+      "dataNascimento": 6200.0,
+      "peso" : 70.2,
+      "altura": 1.69,
+      "estado": "ES"
+    },    
+    {
+      "idPaciente": 2,
+      "cpf": "12114461742",
+      "nome": "dordenoni",
+      "dataNascimento": 6200.0,
+      "peso" : 70.2,
+      "altura": 1.69,
+      "estado": "ES"
+    },
+    {
+      "idPaciente": 3,
+      "cpf": "12114461742",
+      "nome": "da",
+      "dataNascimento": 6200.0,
+      "peso" : 70.2,
+      "altura": 1.69,
+      "estado": "ES"
+    },
+    {
+      "idPaciente": 4,
+      "cpf": "12114461742",
+      "nome": "Silva",
+      "dataNascimento": 6200.0,
+      "peso" : 70.2,
+      "altura": 1.69,
+      "estado": "ES"
+    }
+]
